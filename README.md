@@ -1,2 +1,0 @@
-# hackthon
-Created with CodeSandbox
